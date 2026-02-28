@@ -14,4 +14,6 @@
 // Modules let you share variables and functions between files
 // Modules example files: ./04-modules-1.js and ./04-modules-2.js
 
-// 5)
+// 5) Built-in Modules
+// Node.js has many built-in modules that you can use without installing anything
+// Built-in modules example file: ./05-built-in-modules.js
